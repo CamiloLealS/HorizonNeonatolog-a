@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#top{
+    height: 170px;
+    width: 990px;
+    margin: auto;
+    align-items: center;
+    display: flex;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.container{
+    padding: 60px 0;
+}
+
+.container-contenido{
+    width: 990px;
+    background-color: white;
+}
